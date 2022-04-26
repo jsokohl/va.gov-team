@@ -11,7 +11,7 @@ We want this introduction to be easy for you (and anyone else) to pick up and re
 
 ### Underserved (or underrepresented) communities
 Groups of people who share a particular characteristic who have been left out of something important in society. All Veterans, their caretakers, and their family members are underserved in American society[^1] , but some are more underserved than others.
-When we talk about ***underserved communities ***within the context of our research, we’re talking about groups of people who:
+When we talk about ***underserved communities*** within the context of our research, we’re talking about groups of people who:
 * Are underserved in American society for reasons other than being a Veteran, caretaker, or family member of a Veteran
  * For example, some disabled Veterans may struggle to navigate state government unemployment websites, of which [86% fail at least one basic test for mobile page load speed, mobile friendliness, or accessibility](https://itif.org/publications/2020/04/15/most-state-unemployment-websites-fail-mobile-and-accessibility-tests).
 * Were underserved historically by Veterans Affairs
